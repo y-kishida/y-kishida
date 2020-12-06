@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![](https://raw.githubusercontent.com/y-kishida/y-kishida/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <!--
 **y-kishida/y-kishida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
